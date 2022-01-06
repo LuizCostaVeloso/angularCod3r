@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notbook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansumg S20+",
+      "price": 5000.89
+    },
+    {
+      "name": "Telefone pre pago",
+      "price": "30.00",
+      "id": 4
+    },
+    {
+      "name": "Caixa ",
+      "price": "23.00",
+      "id": 5
+    },
+    {
+      "name": "lldldfdsf",
+      "price": "1202.00",
+      "id": 6
+    }
+  ]
+}
